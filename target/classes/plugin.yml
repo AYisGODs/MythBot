@@ -1,0 +1,7 @@
+name: MythBot
+description: MythBot
+main: es.mythmc.MythBot.MythBot
+version: 0.1
+author: AYisGOD
+depend:
+  - JDA
